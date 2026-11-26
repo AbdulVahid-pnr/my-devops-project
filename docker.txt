@@ -1,0 +1,8 @@
+Docker is a containerization platform.
+
+Docker helps developers:
+1. Build applications.
+2. Package applications into containers.
+3. Run applications consistently.
+4. Deploy applications easily.
+5. Manage application environments.
